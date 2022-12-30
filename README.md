@@ -9,3 +9,6 @@
 - 😎 Adjectives: Altruist | Sedulous | Adaptive | Meticulous | 
 - 😄 Pronouns: --
 - ⚡ Fun fact: I like to talk about Space and Programming
+
+![Sanket's LeetCode Stats](https://leetcard.jacoblin.cool/creativeIndex?theme=light&font=Noto%20Sans%20Arabic&ext=heatmap&border=0&radius=20)
+
